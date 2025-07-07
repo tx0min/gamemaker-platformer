@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fxExplosion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fxExplosion",
+  "parent":{
+    "name":"FX",
+    "path":"folders/Scripts/FX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

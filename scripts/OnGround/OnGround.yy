@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OnGround",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OnGround",
+  "parent":{
+    "name":"game",
+    "path":"folders/Scripts/game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

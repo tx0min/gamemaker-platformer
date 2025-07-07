@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"shootBullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shootBullet",
+  "parent":{
+    "name":"game",
+    "path":"folders/Scripts/game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

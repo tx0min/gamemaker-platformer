@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fxDust",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fxDust",
+  "parent":{
+    "name":"FX",
+    "path":"folders/Scripts/FX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

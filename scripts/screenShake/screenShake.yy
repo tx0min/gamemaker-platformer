@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"screenShake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screenShake",
+  "parent":{
+    "name":"FX",
+    "path":"folders/Scripts/FX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

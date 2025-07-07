@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"pCircle",
+  "closed":true,
+  "kind":1,
+  "name":"pCircle",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":208.0,"y":160.0,},
+    {"speed":100.0,"x":448.0,"y":160.0,},
+    {"speed":100.0,"x":448.0,"y":384.0,},
+    {"speed":100.0,"x":208.0,"y":384.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

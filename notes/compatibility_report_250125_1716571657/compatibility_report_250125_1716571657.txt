@@ -1,0 +1,300 @@
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/log/log.gml
+Converted description /// @description log(arguments)/// @param arguments
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/inView/inView.gml
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description inView(x,y)/// @param x
+/// @param y
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/Approach/Approach.gml
+Converted description /// @description  Approach(start, end, shift);/// @param start
+/// @param  end
+/// @param  shift
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/drawTextOutline/drawTextOutline.gml
+Converted description /// @description drawTextOutline(x,y,size,text,textcolor,outlinecolor,font) /// @param x
+/// @param y
+/// @param size
+/// @param text
+/// @param textcolor
+/// @param outlinecolor
+/// @param font
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/checkCollision/checkCollision.gml
+Converted description /// @description checkCollision(x1,y1,x2,y2,[drawline,size,color,gap,alpha])/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param [drawline
+/// @param size
+/// @param color
+/// @param gap
+/// @param alpha]
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/shootBullet/shootBullet.gml
+Converted description /// @description shootBullet(x,y)/// @param x
+/// @param y
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/enemyHit/enemyHit.gml
+Converted description /// @description enemyHit(obj)/// @param obj
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/playerHit/playerHit.gml
+Converted description /// @description playerHit(obj)/// @param obj
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/dropWeapon/dropWeapon.gml
+Converted description /// @description dropWeapon()
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/death/death.gml
+Converted description /// @description death()
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/PlatformCheck/PlatformCheck.gml
+Converted description /// @description  PlatformCheck();
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/EntityStep/EntityStep.gml
+Converted description /// @description  EntityStep();
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/OnGround/OnGround.gml
+Converted description /// @description  OnGround();
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/drawWallPuddle/drawWallPuddle.gml
+Converted description /// @description drawWallPuddle(obj,position,color)/// @param obj
+/// @param position
+/// @param color
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/prevRoom/prevRoom.gml
+Converted description /// @description prevRoom()
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/nextRoom/nextRoom.gml
+Converted description /// @description nextRoom()
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/drawBulletPath/drawBulletPath.gml
+Converted description /// @description  drawBulletPath(x,y,angle,speed,weight,[color,linesize,gap,dotsize])/// @param x
+/// @param y
+/// @param angle
+/// @param speed
+/// @param weight
+/// @param [color
+/// @param linesize
+/// @param gap
+/// @param dotsize]
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/fxExplosion/fxExplosion.gml
+Converted description /// @description fxExplosion(x,y)/// @param x
+/// @param y
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/createPartTypeSprite/createPartTypeSprite.gml
+Converted description /// @description createPartTypeSprite(sprite, blend, min_life, max_life, min_scale, max_scale, scaling )/// @param sprite
+/// @param  blend
+/// @param  min_life
+/// @param  max_life
+/// @param  min_scale
+/// @param  max_scale
+/// @param  scaling
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/screenShake/screenShake.gml
+Converted description /// @description screenShake([size])/// @param [size]
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/scripts/fxDust/fxDust.gml
+Converted description /// @description fxDust([x,y,hrange,vrange,intensity,color,sprite])/// @param [x
+/// @param y
+/// @param hrange
+/// @param vrange
+/// @param intensity
+/// @param color
+/// @param sprite]
+
+GameMaker Studio 1 font texture has been backed up at /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/fonts/fntBase/fntBase.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/fonts/fntBig/fntBig.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/fonts/fntDebug/fntDebug.gms1.png
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParWeapon/Alarm_1.gml
+Converted description /// @description Disable fire hold
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParWeapon/Alarm_0.gml
+Converted description /// @description Enable again
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParWeapon/Step_0.gml
+Converted description /// @description Weapon position
+String not found: ConversionLog_ConvertedString 11 'mouse' "mouse"
+String not found: ConversionLog_ConvertedString 47 'mouse' "mouse"
+String not found: ConversionLog_ConvertedString 48 'E' "E"
+String not found: ConversionLog_ConvertedString 59 'mouse' "mouse"
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParEnemy/Alarm_0.gml
+Converted description /// @description Invincible
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParEnemy/Step_0.gml
+Converted description /// @description  Handle gravity
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParEnemy/Collision_bb464bf0-a7a9-40d1-ae2a-559b59d16ee2.gml
+Converted description /// @description Hit on Enemy
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParEnemy/Draw_0.gml
+Converted description /// @description draw sprite
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oBullet/Alarm_0.gml
+Converted description /// @description Vanishing
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oBullet/Step_0.gml
+Converted description /// @description Position the bullet
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oBullet/Collision_0b46333f-dfd0-4a2a-93bc-d6dde73f9d46.gml
+Converted description /// @description Destroy bullet effect
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxSparkle/Alarm_0.gml
+Converted description /// @description Initialize parameters
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxSparkle/Other_0.gml
+Converted description /// @description destroy
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxSplatter/Alarm_0.gml
+Converted description /// @description Initialize parameters
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxSplatter/Other_0.gml
+Converted description /// @description destroy
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxDust/Alarm_0.gml
+Converted description /// @description Initialize parameters
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxSlider/Draw_0.gml
+Converted builtin - line 17: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 26: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 26: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 34: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 29: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 29: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 35: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 26: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 26: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 42: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 44: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 45: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 47: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 47: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 29: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 29: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 45: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 45: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 46: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 47: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxFadeInStd/Draw_72.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxPuddle/Alarm_0.gml
+Converted description /// @description generate random drops
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParticles/Create_0.gml
+Converted description /// @description Init particles system
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oParticles/Other_3.gml
+Converted description /// @description Destroy particle system
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxExplosion/Create_0.gml
+Converted description /// @description Initialize the explosion piece
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oFxExplosion/Step_0.gml
+Converted description /// @description Create the explosion particles
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oLight/Create_0.gml
+Converted description /// @description Initialize light
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oGame/Create_0.gml
+Converted builtin - line 19: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oGame/Step_0.gml
+Converted builtin - line 69: background_visible[i] -> __background_get( e__BG.Visible, i )
+Converted builtin - line 70: background_x[i]= view_xview/((i+1)*2) -> __background_set( e__BG.X, i, view_xview/((i+1)*2) )
+Converted builtin - line 78: view_xview -> __view_get( e__VW.XView, 0 )
+Converted description /// @description  Input variables for debug room traversal
+String not found: ConversionLog_ConvertedString 4 'R' "R"
+String not found: ConversionLog_ConvertedString 6 'Z' "Z"
+String not found: ConversionLog_ConvertedString 7 'X' "X"
+String not found: ConversionLog_ConvertedString 8 'F' "F"
+String not found: ConversionLog_ConvertedString 9 'G' "G"
+String not found: ConversionLog_ConvertedString 10 'C' "C"
+Converted builtin - line 70: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oGame/Draw_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oLightController/Create_0.gml
+Converted description /// @description Initialize surface
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oCamera/Step_0.gml
+Converted builtin - line 21: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview= max(shakepower, x - w/2) -> __view_set( e__VW.XView, 0, max(shakepower, x - w/2) )
+Converted builtin - line 21: view_xview = rw - w - shakepower -> __view_set( e__VW.XView, 0, rw - w - shakepower )
+Converted builtin - line 29: view_xview += random_range(-shakepower,shakepower) -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (random_range(-shakepower,shakepower)) )
+Converted builtin - line 24: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_yview = max(shakepower, y - h/2) -> __view_set( e__VW.YView, 0, max(shakepower, y - h/2) )
+Converted builtin - line 24: view_yview = rh - h - shakepower -> __view_set( e__VW.YView, 0, rh - h - shakepower )
+Converted builtin - line 30: view_yview += random_range(-shakepower,shakepower) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (random_range(-shakepower,shakepower)) )
+Converted builtin - line 9: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oPlayer/Alarm_1.gml
+Converted description /// @description Invincible
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oPlayer/Alarm_0.gml
+Converted description /// @description wall Sticking
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oPlayer/Step_1.gml
+Converted description /// @description controla el efectoal tocar el suelo
+
+Converting GML script: /Users/txomin/Library/CloudStorage/Dropbox/TXO/gamemaker/sandbox.gmx/mvc/objects/oPlayer/Step_0.gml
+Converted description /// @description Movement
+String not found: ConversionLog_ConvertedString 7 'A' "A"
+String not found: ConversionLog_ConvertedString 8 'D' "D"
+String not found: ConversionLog_ConvertedString 9 'W' "W"
+String not found: ConversionLog_ConvertedString 10 'S' "S"
+String not found: ConversionLog_ConvertedString 12 'W' "W"
+String not found: ConversionLog_ConvertedString 13 'W' "W"
+
+Missing audiogroup for sound: 'sndShoot' - setting to default audio group
+Missing audiogroup for sound: 'sndReload' - setting to default audio group
+Missing audiogroup for sound: 'sndSplatter' - setting to default audio group
+Missing audiogroup for sound: 'sndLaser' - setting to default audio group
+Missing audiogroup for sound: 'sndShotgun' - setting to default audio group
+Missing audiogroup for sound: 'sndFlame' - setting to default audio group
+Missing audiogroup for sound: 'sndOuch' - setting to default audio group
+Missing audiogroup for sound: 'sndJump' - setting to default audio group
+Missing audiogroup for sound: 'sndHp' - setting to default audio group
+Missing audiogroup for sound: 'sndMusic1' - setting to default audio group
+Missing audiogroup for sound: 'sndMusic2' - setting to default audio group
+Missing audiogroup for sound: 'sndPortal' - setting to default audio group
+Missing audiogroup for sound: 'sndExplosion' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'background/__background_get.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'tile/tile_layer_shift.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

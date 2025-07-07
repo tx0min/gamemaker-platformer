@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fxSplatter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fxSplatter",
+  "parent":{
+    "name":"FX",
+    "path":"folders/Scripts/FX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

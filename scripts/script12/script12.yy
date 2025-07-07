@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script12",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script12",
+  "parent":{
+    "name":"FX",
+    "path":"folders/Scripts/FX.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
